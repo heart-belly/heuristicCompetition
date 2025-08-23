@@ -1,3 +1,4 @@
+# rank(349)
 # 赛题名称
 ## Single Controller Multiple Robots
 # 赛题描述

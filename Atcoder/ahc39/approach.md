@@ -19,6 +19,6 @@
 ### 3.像素扩充：搜索完毕后，在结果输出之前进一步转换为像素点，具体做法如下：
 ### 扩充前: ![](./2.png)
 ### 扩充后: ![](./3.png)
-### 还有许多的处理技巧，更好的学习都在代码中（由于是别人的代码，这里给上链接[超链接显示名]([超链接地址](https://github.com/FakePsyho/cpcontests/blob/master/atcoder/ahc039/main.cpp) "超链接title")
+### 还有许多的处理技巧，更好的学习都在代码中（由于是别人的代码，这里给上链接[超链接显示名]([https://github.com/FakePsyho/cpcontests/blob/master/atcoder/ahc039/main.cpp)] "超链接title")
 ---
 

@@ -1,4 +1,4 @@
-<img width="118" height="109" alt="image" src="https://github.com/user-attachments/assets/70dd94c4-ad3f-4824-ba91-5d275362da70" /># 赛题名称
+# 赛题名称
 ## Purse Seine Fishing
 # 赛题描述
 ## 给定一个二维网格地图，里面有两种鱼的坐标，使用多边形包围网格中的某块区域

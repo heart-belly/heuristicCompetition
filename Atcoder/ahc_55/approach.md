@@ -1,6 +1,6 @@
 # rank(249)
 # 赛题名称
-## Weakpoint
+## [Weakpoint](https://atcoder.jp/contests/ahc055)
 # 赛题描述
 ## 用最少的攻击次数打开所有箱子，打开箱子可以拿到武器，攻击的选择方式有手或者已有的武器
 # 得分函数

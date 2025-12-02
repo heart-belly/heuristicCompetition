@@ -1,6 +1,6 @@
 # rank(289)
 # 赛题名称
-## [概率垃圾分类](https://atcoder.jp/contests/ahc040)
+## [概率垃圾分类](https://atcoder.jp/contests/ahc051)
 # 赛题描述
 ## 通过有效组合多个分拣机，尽可能准确地进行垃圾分类。
 # 得分函数

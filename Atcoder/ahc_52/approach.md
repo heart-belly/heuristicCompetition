@@ -1,6 +1,6 @@
 # rank(349)
 # 赛题名称
-## Single Controller Multiple Robots
+## [Single Controller Multiple Robots](https://atcoder.jp/contests/ahc052)
 # 赛题描述
 ## 通过公共命令控制机器人遍历所有图
 # 得分函数

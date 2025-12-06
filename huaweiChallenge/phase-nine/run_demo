@@ -1,0 +1,1 @@
+python demo.py --in-path ./test_data --out-path ./test_out_data --ckpt ./run_1/checkpoint.pth.tar --backbone resnet --dataset voc
